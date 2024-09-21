@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Blah 
   <br><br>
-  <a href="www.linkedin.com/in/cassandra-morgan-795507327">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/cassandra-morgan-795507327">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
