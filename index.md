@@ -4,16 +4,16 @@
 
 ### Projects 
 
-[California Ozona Network Report](pdf/California Ozone Network Report.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[California Ozone Network Report](pdf/California Ozone Network Report.pdf)
+<img src="images/Thumbnail for California Ozone Network Project.png"/>
 
 ---
 [Illinois Prevailing Wage Rates Analysis in R](pdf/Project-1.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Thumbnail for Illinois Project.png"/>
 
 ---
 [Air Quality Data Regression App](https://cmorgan19.shinyapps.io/lab3/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Thumbnail for Airquality App.png"/>
 
 
 
