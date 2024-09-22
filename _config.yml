@@ -1,9 +1,13 @@
 title: Cassandra Morgan # your name (or website title) here
 logo: "images/selfie.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Senior Data Science student at Arizona State University (Graduating May 2025). Curious, fast learner, enjoys working with
-  Curious, fast learner, enjoys wrangling data and finding data driven solutions to abstract problems
-  Exploring opportunities for internships and entry level positions in data science and data analytics.
+  About:
+  - Senior Data Science student at Arizona State University (Graduating May 2025).
+  <br><br>
+  - Curious, fast learner, enjoys wrangling data and finding data driven solutions to abstract problems.
+  <br><br>
+  - Exploring opportunities for internships and entry level positions in data science and data analytics.
+  <br><br>
   <br><br>
   Skills:
   Python, R, SQL, Excel, Data Anaylsis, Data Visualization
