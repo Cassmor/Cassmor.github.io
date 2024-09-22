@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[Project 1 Title](/sample_page)
+[California Ozona Network Report](pdf/California Ozone Network Report.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
