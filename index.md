@@ -8,11 +8,11 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](pdf/Project-1.pdf)
+[Illinois Prevailing Wage Rates Analysis in R](pdf/Project-1.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](https://cmorgan19.shinyapps.io/lab3/)
+[Air Quality Data Regression App](https://cmorgan19.shinyapps.io/lab3/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
