@@ -4,21 +4,16 @@
 
 ### Projects 
 
-[MPG Predictions Multiple Regression Models (Cassandra Morgan and Miles Williams)](pdf/DAT402_Project1_CMMWF_PDF.pdf)
-<img src="images/thumbnail dat402 project 1.png"/>
-
----
-[Illinois Prevailing Wage Rates Analysis in R](pdf/Project-1.pdf)
-<img src="images/Thumbnail for Illinois Project.png"/>
-
----
-[Air Quality Data Regression App](https://cmorgan19.shinyapps.io/lab3/)
-<img src="images/Thumbnail for Airquality App.png"/>
+[Facial Expression Recognition Machine Learning Models](pdf/Project_2_Final_Working_Version_test.pdf)
+<img src="images/Thumbnail for facial processing.png"/>
 
 ---
 [California Ozone Network Report](pdf/California Ozone Network Report.pdf)
 <img src="images/Thumbnail for California Ozone Network Project.png"/>
 
+---
+[MPG Predictions Multiple Regression Models (Cassandra Morgan and Miles Williams)](pdf/DAT402_Project1_CMMWF_PDF.pdf)
+<img src="images/thumbnail dat402 project 1.png"/>
 
 
 
