@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[Facial Expression Recognition Machine Learning Models](pdf/Project_2_Final_Working_Version_test.pdf)
+[Facial Expression Recognition Machine Learning Models](pdf/Project_2_Final_Working_Version_test_portfolio.pdf)
 <img src="images/Thumbnail for facial processing.png"/>
 
 ---
