@@ -9,7 +9,7 @@
 
 <img src="images/Diabetes Prediction Paper.png"/>
 
-Used health screening information to create machine learning models to predict which patients are most likely to have diabetes for extra screening/testing for preventitive health purposes. Group project.
+Used health screening information to create machine learning models to predict which patients are most likely to have diabetes for extra screening/testing for preventative health purposes. Group project.
 
 ---
 [High Risk Entities CalPERS Analysis](https://public.tableau.com/views/High_Risk_Entities_CalPERS_Analysis/CalPERSRiskMitigationDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
